@@ -4,5 +4,5 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: Innovation day Iot Car
-  host: Innovation-day-practice
+  host: Innovation-day-Iot-Car
   disk_quota: 1024M
